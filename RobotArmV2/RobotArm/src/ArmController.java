@@ -101,7 +101,6 @@ public class ArmController {
     }
 
 
-    //chatgpt
     public int getValidDegrees(String servoName) {
     Scanner scanner = new Scanner(System.in);
     int degrees = -1;
